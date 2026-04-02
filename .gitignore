@@ -1,0 +1,8 @@
+metabase.jar
+metabase.db.mv.db
+metabase.db.trace.db
+__pycache__/
+.vscode/
+*.pyc
+plugins/
+settings.json
