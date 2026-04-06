@@ -3,6 +3,6 @@ metabase.db.mv.db
 metabase.db.trace.db
 __pycache__/
 .vscode/
-*.pyc
+# *.pdf
 plugins/
 settings.json
